@@ -39,7 +39,7 @@ The core of this project is a **RAG-enhanced LLM Chat Assistant**. By indexing l
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/rag_team8.git](https://github.com/YOUR_USERNAME/rag_team8.git)
+git clone [https://github.com/nishant916/rag_team8.git](https://github.com/nishant916/rag_team8.git)
 cd rag_team8
 ```
 
